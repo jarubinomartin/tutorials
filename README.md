@@ -1,2 +1,2 @@
-# tutorials
-* Introduction to Healpix - healpy. 
+# Tutorials
+- Introduction to Healpix and healpy. 
